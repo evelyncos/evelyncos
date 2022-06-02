@@ -7,7 +7,7 @@ Oiii!! Eu sou a Evelyn Costa ✨
 
 <div align="center">
   <a href="https://github.com/evelyncos">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=evelyncos&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=evelyncos&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyncos&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
@@ -32,6 +32,9 @@ Oiii!! Eu sou a Evelyn Costa ✨
   ![Snake animation](https://github.com/evelyncos/evelyncos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+
 
 
 
