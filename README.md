@@ -19,7 +19,8 @@ Oiii!! Eu sou a Evelyn Costa ✨
 <img align="center" alt="Eve-DOTNET" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
           
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<img align="right" alt="Eve-pic" height="150" style="border-radius:50px;" 
+src="https://media.discordapp.net/attachments/982076732037300256/982079951689900043/1.png?width=406&height=406">
 </div>
 
 
