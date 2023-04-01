@@ -1,9 +1,10 @@
 Oiii!! Eu sou a Evelyn Costa ✨
 
 - 💻 Atualmente trabalho com back-end
-- ⚙  Engenharia da Computação
-- 📖 Desenvolvendo meu TCC
-
+- ⚙  Engenheira de Computação
+- 🛠 SQL
+- 🐍 Python
+- 🧠 Machine Learning 
 
 <div align="center">
   <a href="https://github.com/evelyncos">
@@ -30,7 +31,7 @@ src="https://media.discordapp.net/attachments/982076732037300256/982079951689900
   <a href="https://www.linkedin.com/in/evelyn-costa-15052a230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-  ![Snake animation](https://github.com/evelyncos/evelyncos/blob/output/github-contribution-grid-snake.svg)
+# ![Snake animation](https://github.com/evelyncos/evelyncos/blob/output/github-contribution-grid-snake.svg)#
  
 </div>
 
